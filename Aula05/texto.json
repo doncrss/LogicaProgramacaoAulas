@@ -1,0 +1,14 @@
+{
+"0" : {
+        "nome": "Cris",
+        "idade": 16,
+        "profissao" : ["Garoto de programa", "professor", "Suporte"]
+    },
+"1":   {
+        "nome": "Cristina",
+        "idade": 49,
+        "profissao" : "Pedreira"{
+            "profissão": "Eletricista",
+            "habilidade": ["Tecnica", "Eomocional"] 
+            }
+}
