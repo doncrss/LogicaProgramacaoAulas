@@ -1,0 +1,1 @@
+oi = input('Digite o seu nome: ')
