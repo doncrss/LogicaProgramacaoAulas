@@ -33,10 +33,11 @@ print(f'A soma do seu número com 20 é:{numero + numero2}')
 print(numero + numero2)
 
 # calculadora IMC
+print(40*'-','Calculadora IMC',40*'-')
 peso = float(input("Digite seu peso:"))
 altura = float(input("digite sua altura:"))
 IMC = peso / altura ** 2
-print(f'O seu imc é de:, {IMC:.2f}')
+print(f'O seu imc é de: {IMC:.2f}')
 if IMC <18.5:
     print("Coma, você está abaixo do peso!")
 elif IMC <= 24.9:
